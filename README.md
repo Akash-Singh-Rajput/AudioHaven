@@ -7,3 +7,4 @@ This is a React e-commerce project for headphones. It is built using Tailwind CS
 * Shopping cart with checkout functionality
 * User authentication and registration
 * Admin dashboard for managing products, orders, and users
+* 
